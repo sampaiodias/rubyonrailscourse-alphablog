@@ -3,4 +3,3 @@
 This a simple repository for my Rails course, so you won't see fancy things here :)
 
 Enjoy!
-<tt>rake doc:app</tt>.
