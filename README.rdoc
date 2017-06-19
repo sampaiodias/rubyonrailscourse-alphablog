@@ -2,4 +2,6 @@
 
 This a simple repository for my Rails course, so you won't see fancy things here :)
 
+Preview available at https://alpha-blog-sampaiodias.herokuapp.com/
+
 Enjoy!
