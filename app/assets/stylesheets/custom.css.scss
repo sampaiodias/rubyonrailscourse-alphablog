@@ -24,12 +24,13 @@ $navbar-default-bg: #211B1B;
 .jumbotron {
   background-image: asset-url('blue.jpg');
   background-size: cover;
-  height: 270px;
+  height: 400px;
 }
 
 .jumbotron h1 {
   color: black;
   text-align: center;
+  margin-top: 80px;
   margin-bottom: 20px;
   letter-spacing: -1px;
   font-weight: bold;
